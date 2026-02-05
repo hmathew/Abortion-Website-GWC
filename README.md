@@ -1,8 +1,8 @@
-# My Cause Website ✊💙
+# My Cause Website
 
 This project is an informational and interactive website focused on the right to abortion. It educates users about the topic and encourages them to take action. The website includes a fact generator that displays important facts each time a button is clicked.
 
-## 📁 Project Structure
+## Project Structure
 
 .
 ├── index.html        # Home page explaining the cause and displaying the fact generator
@@ -11,20 +11,20 @@ This project is an informational and interactive website focused on the right to
 ├── script.js         # JavaScript file for the fact generator
 └── assets/           # Folder containing image files
 
-## 🧩 How It Works
+## How It Works
 
 - The Home page explains the cause and includes a fact generator
 - Users can click a button to cycle through different facts
 - The Take Action page provides additional information and encourages awareness
 - A navigation bar allows users to move between pages easily
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML – structures the website content  
 - CSS – styles the layout, colors, text, and navigation bar  
 - JavaScript – adds interactivity through the fact generator  
 
-## 📄 File Breakdown
+## File Breakdown
 
 ### index.html
 - Displays the main cause and introduction
